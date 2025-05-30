@@ -1,0 +1,13 @@
+#only these 2 works for folders
+venv/
+myenv/
+
+
+.venv
+*.venv
+.myenv
+*.myenv
+**.myenv
+.venv/
+.myenv/
+
