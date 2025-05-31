@@ -1,0 +1,44 @@
+## LangChain Core
+#langchain
+#langchain-core
+
+## OpenAI Integration
+#langchain-openai
+#openai
+
+# Anthropic Integration
+#langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+#langchain-google-genai
+#google-generativeai
+
+# Hugging Face Integration
+#langchain-huggingface
+#transformers
+#huggingface-hub
+
+## Environment Variable Management
+#python-dotenv
+
+## Machine Learning Utilities
+#numpy
+#scikit-learn
+
+
+# cleaned and optimized
+# LangChain with all integrations (only 1 line needed)
+langchain
+
+# Optional: You can remove specific integrations above since langchain includes them
+
+# External integrations
+openai
+google-generativeai
+huggingface-hub
+transformers
+
+# Utils
+python-dotenv
+numpy
+scikit-learn
